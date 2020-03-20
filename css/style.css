@@ -1,0 +1,115 @@
+.bck{
+    background-image: url(../img/wix.jpg);
+    background-attachment: fixed;
+    width: 100%;
+    background-repeat: no repeat;
+    background-size: cover;
+    height: 880px;
+}
+.header-obj{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: (-50% -50%);
+}
+
+.t-center{
+    color: #b73708;
+    font-size: 150px;
+    font-weight: bolder;
+    font-family: 'Baloo', cursive; 
+}
+
+.p-center{
+font-family: 'Lobster Two', serif, cursive;
+font-size: 20px;
+color: white;
+}
+
+.btn-align{
+    color: white;
+    background-color:#b73708;
+}
+
+.center{
+    float: center;
+}
+
+.content{
+    text-align: center;
+}
+
+h2{
+    color: #fc2d2d;
+    font-size: 50px;
+    font-family:'Bitter', serif;
+}
+
+.aboutUs{
+    font-family: 'Amaranth', sans-serif;
+}
+
+h3{
+    color: #fc2d2d;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.image{
+    padding-top: 60px;
+}
+
+.space{
+    padding-top: 60px;
+    padding-bottom: 30px; 
+}
+
+.crd-name{
+    height: 300px;
+}
+
+.jmb{
+    background-image: url(../img/unsplash.jpg);
+}
+
+.semi{
+    color: #fc2d2d;
+    font-family: cursive;
+}
+.pad{
+    margin:50px;
+}
+
+.btn-outline-danger{
+    color: #fc2d2d;
+}
+
+.ft{
+    background-color: #fc2d2d;
+    color: white;
+    text-shadow: cornsilk;
+    font-weight: bolder;
+    font-family: cursive;
+    padding: 5px;
+    line-height: 0.5em;  
+}
+
+.frm{
+    margin-top: 40px;
+}
+
+.crd{
+    padding: 40px;
+    margin-left: 180px;
+}
+
+.adj{
+    width: 500px;
+    height: 500px;
+}
+
+.btn-bg{
+    background-color: #fc2d2d;
+    width: 70px;
+    color: cornsilk;
+}
